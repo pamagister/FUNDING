@@ -29,7 +29,7 @@ The easiest and most direct way to support this project is through **GitHub Spon
 
 If you prefer a simpler, one-time contribution, you can PayPal me! It's a great way to show appreciation.
 
-[**PayPal**]([https://www.google.com/search?q=https://www.buymeacoffee.com/YOUR_BMC_USERNAME](https://www.paypal.me/PaulDD))
+[**Support via PayPal**]([https://www.paypal.me/PaulDD](https://www.paypal.me/PaulDD))
 
 
 ### 3\. Cryptocurrency
