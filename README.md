@@ -36,7 +36,7 @@ If you prefer a simpler, one-time contribution, you can PayPal me! It's a great 
 
 If you're into crypto, you can send a donation to the following addresses:
 
-  * **Bitcoin (BTC):** bc1qvmrwgeg4n653ttdm7d8yu6m27r3dxj6j3tt0ae
+  * **Bitcoin (BTC):** bc1q070wj0t29gpnf59rq77uz39ruq5ahg9vhakzpq
 
   * **Lightning (ETH):** *coming soon*
 
